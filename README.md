@@ -49,6 +49,9 @@
 + SQL
 ---
 # Analysis and Insight 
+## Dataset Preview
+#### https://ibb.co/dwFcgH3m
+
 ## Pivot Table
 #### https://ibb.co/tPHjbkV0
 
