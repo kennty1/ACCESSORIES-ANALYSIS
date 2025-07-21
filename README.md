@@ -82,7 +82,7 @@ SELECT CONTACTFULLNAME,MIN(SALES) FROM [dbo].[Auto Sales data]
 group by CONTACTFULLNAME
 ORDER BY CONTACTFULLNAME DESC;
 
-##  Power Bi Dashboard
+##  PowerBi Dashboard
 #### https://ibb.co/zTPXDVGr
 #### https://ibb.co/g2hsHt3
 ---
