@@ -16,43 +16,31 @@
 ---
 
 ## Data Description
-|  Column            | Description                                                                    |
-| ------------------ | ------------------------------------------------------------------------------ |
-| `ORDERNUMBER`      | Unique identifier for each order.                                              |
-| `QUANTITYORDERED`  | Number of items ordered.                                                       |
-| `PRICEEACH`        | Price per item sold.                                                           |
-| `ORDERLINENUMBER`  | Line number of the product in the order (used for multi-line orders).          |
-| `SALES`            | Total revenue generated from the order line (PRICEEACH × QUANTITYORDERED).     |
-| `ORDERDATE`        | Date the order was placed.                                                     |
-| `DAYS_SINCE`       | Number of days since the order was made (likely relative to a reference date). |
-| `STATUS`           | Order status (e.g., *Shipped*, *Disputed*).                                    |
-| `PRODUCTCODE`      | Product identifier code.                                                       |
-| `PRODUCTLINE`      | Product category (e.g., *Motorcycles*).                                        |
-| `MSRP`             | Manufacturer's Suggested Retail Price.                                         |
-| `CUSTOMERNAME`     | Name of the customer who placed the order.                                     |
-| `PHONE`            | Customer phone number.                                                         |
-| `ADDRESSLINE1`     | Primary customer address.                                                      |
-| `CITY`             | City of the customer.                                                          |
-| `POSTALCODE`       | Customer's postal code.                                                        |
-| `COUNTRY`          | Country of the customer.                                                       |
-| `CONTACTLASTNAME`  | Customer's last name.                                                          |
-| `CONTACTFIRSTNAME` | Customer's first name.                                                         |
-| `CONTACTFULLNAME`  | Full name of the customer (concatenated first and last names).                 |
+| **Column**           | **Description**                                                       |
+| -------------------- | --------------------------------------------------------------------- |
+| `Date`               | Date the sales transaction occurred.                                  |
+| `Customer ID`        | Unique identifier for each customer.                                  |
+| `Customer Age Group` | Age and gender classification (e.g., Youth (<25) M, Adults (35) F).   |
+| `Customer Country`   | Country of the customer (e.g., Canada, Australia).                    |
+| `State`              | Customer's state or province.                                         |
+| `Product Category`   | Product category (in this case, all are *Accessories*).               |
+| `Sub Category`       | Sub-category of the product (*Bike Racks*).                           |
+| `Product`            | Specific product type (*Hitch Rack*).                                 |
+| `Frame Size`         | Frame size (value appears to be 0 throughout, may not be applicable). |
+| `Order Quantity`     | Number of items ordered.                                              |
+| `Unit Cost`          | Cost to produce or purchase one unit of the item.                     |
+| `Unit Price`         | Price charged per unit sold.                                          |
+| `Cost`               | Total cost for the order (Unit Cost × Quantity).                      |
+| `Revenue`            | Total revenue from the sale (Unit Price × Quantity).                  |
+| `Profit`             | Profit from the order (Revenue − Cost).                               |
 
 ---
 ## Objectives
-+ Analyze Sales Performance:
-   Evaluate total sales across different products, regions, and time periods to understand revenue patterns and top-performing items.
-+ Track Customer Orders:
-   Monitor customer behavior, order frequency, and volume to identify loyal customers and potential market segments.
-+ Assess Product Demand:
-   Determine which products (e.g., motorcycles) are most frequently ordered, at what price points, and in which regions.
-+ Monitor Order Statuses:
-   Examine the distribution of order statuses (e.g., *Shipped*, *Disputed*) to assess delivery performance and potential bottlenecks.
-+ Geographic Insights:
-   Map out customer locations by city and country to identify key markets and plan for regional marketing strategies.
-+ Business Decision Support:
-   Provide actionable insights to help managers make data-driven decisions regarding inventory, pricing, and customer service.
++ To comprehend seasonality or long-term growth, find trends in sales volume, revenue, and profit over several months or years.
++ To assist with focused marketing, investigate how age and gender affect order quantity, profitability, and purchasing behavior.
++ To determine high-performing regions and places that require work, compare sales performance across states and nations (for example, Australia vs. Canada).
++ To Find out which client or geographic areas produce the largest profit margins and which may be causing losses.
++ To inform more sensible pricing and discounting practices, assess the impact of unit price against unit cost on total profit per order.
 ---
 ## Tools Used
 + MICROSOFT EXCEL
