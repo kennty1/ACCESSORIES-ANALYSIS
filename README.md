@@ -8,7 +8,7 @@
 + [Pivot Table](#Pivot-Table)
 + [Excel Dashboard](#excel-dashboard)
 + [SQL Queries](#sql-queries)
-+ [PowerBi Dashboard](#PowerBi-Dashboard)
++ [Power Bi Dashboard](#Power-Bi-Dashboard)
 + [Findings](#Findings)
 ---
 ## Project Overview
@@ -82,7 +82,7 @@ SELECT CONTACTFULLNAME,MIN(SALES) FROM [dbo].[Auto Sales data]
 group by CONTACTFULLNAME
 ORDER BY CONTACTFULLNAME DESC;
 
-##  PowerBi Dashboard
+##  Power Bi Dashboard
 #### https://ibb.co/zTPXDVGr
 #### https://ibb.co/g2hsHt3
 ---
