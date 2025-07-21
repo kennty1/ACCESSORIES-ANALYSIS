@@ -5,6 +5,7 @@
 + [Objectives](#Objectives)
 + [Tools Used](#Tools-Used)
 + [Analysis and Insight](#Analysis-and-Insight)
++  [Dataset Preview](#Dataset-Preview)
 + [Pivot Table](#Pivot-Table)
 + [Excel Dashboard](#excel-dashboard)
 + [SQL Queries](#sql-queries)
@@ -52,15 +53,16 @@
 #### https://ibb.co/tPHjbkV0
 
 ##  Excel Dashboard
-#### https://ibb.co/7t7t5QbM
+#### https://ibb.co/PZR0pNBm
 
 ##  SQL Queries
 #### https://ibb.co/20wfwMGL
 #### https://ibb.co/BHd1qn1B
 
 ##  Power Bi Dashboard
-#### https://ibb.co/zTPXDVGr
-#### https://ibb.co/g2hsHt3
+#### https://ibb.co/B528V675
+#### https://ibb.co/1YZPD3FL
+#### https://ibb.co/hx0kvmcj
 ---
 # Findings
 ### 1. Most Orders Are Shipped:
