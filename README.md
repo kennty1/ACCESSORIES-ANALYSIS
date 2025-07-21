@@ -52,23 +52,8 @@
 #### https://ibb.co/7t7t5QbM
 
 ##  SQL Queries
-#### ---- THE HIGHEST QUANTITY OF GOODS ORDERED---
-SELECT TOP 1 * FROM [dbo].[Auto Sales data]
-ORDER BY QUANTITYORDERED DESC;
-
-#### ---- THE LOWEST QUANTITY OF GOODS ORDERED---
-SELECT TOP 1 * FROM [dbo].[Auto Sales data]
-ORDER BY QUANTITYORDERED ASC;
-
-#### --- ALL PRODUCTLINE---
-SELECT PRODUCTLINE FROM [dbo].[Auto Sales data]
-GROUP BY PRODUCTLINE;
-
-
-#### --- CONTACT FULL NAME WITH SALES FROM HIGHEST  TO LOWEST----
-SELECT CONTACTFULLNAME,MIN(SALES) FROM [dbo].[Auto Sales data]
-group by CONTACTFULLNAME
-ORDER BY CONTACTFULLNAME DESC;
+#### https://ibb.co/20wfwMGL
+#### https://ibb.co/BHd1qn1B
 
 ##  Power Bi Dashboard
 #### https://ibb.co/zTPXDVGr
