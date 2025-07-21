@@ -12,7 +12,7 @@
 + [Findings](#Findings)
 ---
 ## Project Overview
-#### This Project analyses the Auto Sales Data which appears to be used for tracking sales performance and customer distribution across different regions, with most orders marked as "Shipped" and originating from multiple countries including the USA, France, and Australia.
+#### This Project analyses a sales record that documents transactions performed by various consumers over time, specifically for bike rack accessories (Hitch Rack).  With information on the client, the goods, and financial KPIs, each row in the dataset represents a separate sales order.
 ---
 
 ## Data Description
