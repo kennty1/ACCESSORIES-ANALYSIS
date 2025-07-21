@@ -5,10 +5,10 @@
 + [Objectives](#Objectives)
 + [Tools Used](#Tools-Used)
 + [Analysis and Insight](#Analysis-and-Insight)
-1 [Pivot Table](#Pivot-Table)
-2 [Excel Dashboard](#excel-dashboard)
-3[SQL Queries](#sql-queries)
-4[PowerBi Dashboard](#PowerBi-Dashboard)
++ [Pivot Table](#Pivot-Table)
++ [Excel Dashboard](#excel-dashboard)
++[SQL Queries](#sql-queries)
++[PowerBi Dashboard](#PowerBi-Dashboard)
 + [Findings](#Findings)
 ---
 ## Project Overview
