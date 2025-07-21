@@ -60,10 +60,10 @@
 + SQL
 ---
 # Analysis and Insight 
-## 1.Excel Dashboard
+## + Excel Dashboard
 #### https://ibb.co/7t7t5QbM
 
-## 2.SQL Queries
+## + SQL Queries
 #### ---- THE HIGHEST QUANTITY OF GOODS ORDERED---
 SELECT TOP 1 * FROM [dbo].[Auto Sales data]
 ORDER BY QUANTITYORDERED DESC;
@@ -82,7 +82,7 @@ SELECT CONTACTFULLNAME,MIN(SALES) FROM [dbo].[Auto Sales data]
 group by CONTACTFULLNAME
 ORDER BY CONTACTFULLNAME DESC;
 
-## 3.Power Bi Dashboard
+## + Power Bi Dashboard
 #### https://ibb.co/zTPXDVGr
 #### https://ibb.co/g2hsHt3
 ---
