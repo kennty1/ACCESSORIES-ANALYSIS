@@ -7,8 +7,8 @@
 + [Analysis and Insight](#Analysis-and-Insight)
 + [Pivot Table](#Pivot-Table)
 + [Excel Dashboard](#excel-dashboard)
-+[SQL Queries](#sql-queries)
-+[PowerBi Dashboard](#PowerBi-Dashboard)
++ [SQL Queries](#sql-queries)
++ [PowerBi Dashboard](#PowerBi-Dashboard)
 + [Findings](#Findings)
 ---
 ## Project Overview
