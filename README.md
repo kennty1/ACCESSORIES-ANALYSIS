@@ -48,6 +48,9 @@
 + SQL
 ---
 # Analysis and Insight 
+## Pivot Table
+#### https://ibb.co/tPHjbkV0
+
 ##  Excel Dashboard
 #### https://ibb.co/7t7t5QbM
 
