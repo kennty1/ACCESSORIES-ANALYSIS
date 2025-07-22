@@ -77,6 +77,15 @@
 ### 6.Customers are located mainly in Australia (New South Wales & Victoria) and Canada (British Columbia), suggesting focused regional markets.
 ### 7. Orders range from 1 unit to 23 units, showing a mix of small personal and bulk purchases.
 
+# Recommendation
+### Introduce additional bike accessory types to diversify product lines and increase customer value per order.
+### Focus marketing and retention strategies on Adults (35+), especially in Australia and Canada, as they generate the most revenue.
+### Consider discounts or entry-level products targeted at the <25 age group to grow their customer base and build early brand loyalty.
+### Explore new provinces or countries with similar profiles to Australia and Canada to scale up sales geographically.
+### Introduce tiered pricing or bundle deals for bulk orders to incentivize larger purchases while protecting margins.
+
+
+
 
 
 
