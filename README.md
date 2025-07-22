@@ -5,12 +5,13 @@
 + [Objectives](#Objectives)
 + [Tools Used](#Tools-Used)
 + [Analysis and Insight](#Analysis-and-Insight)
-+  [Dataset Preview](#Dataset-Preview)
++ [Dataset Preview](#Dataset-Preview)
 + [Pivot Table](#Pivot-Table)
 + [Excel Dashboard](#excel-dashboard)
 + [SQL Queries](#sql-queries)
 + [Power Bi Dashboard](#Power-Bi-Dashboard)
 + [Findings](#Findings)
++ [Recommendation](#Recommendation)
 ---
 ## Project Overview
 #### This Project analyses a sales record that documents transactions performed by various consumers over time, specifically for bike rack accessories (Hitch Rack).  With information on the client, the goods, and financial KPIs, each row in the dataset represents a separate sales order.
@@ -68,20 +69,32 @@
 #### https://ibb.co/hx0kvmcj
 ---
 # Findings
-### 1. Most Orders Are Shipped:
-   The majority of the orders in the dataset have a status of "Shipped", indicating a high fulfillment rate and good operational flow.
-### 2. Popular Product Line – Motorcycles:
-   All visible entries are from the Motorcycle product line, suggesting that this product category may be a major revenue driver.
-### 3. Order Volumes Vary:
-   The quantity ordered ranges from small (e.g., 1 unit) to larger bulk orders (up to 66 units), indicating a mix of retail and possible wholesale transactions.
-### 4. Sales Values Differ Widely:
-   The sales amounts (total revenue per order line) vary significantly, showing different pricing tiers and customer spending levels.
-### 5. Geographically Diverse Customers:
-   Customers are located in various countries including the **USA, France, Australia, UK, Norway, and Spain**, highlighting an international customer base.
-### 6. Active Customer Engagement:
-   Each record contains full contact information (phone, address, and names), suggesting that the company maintains detailed CRM (Customer Relationship Management) records.
-### 7. Recent Sales Activity:
-   Many order dates fall in 2020, showing relatively recent business activity and suggesting the data is used for current performance monitoring.
+### 1. All sales are for Hitch Rack bike accessories, indicating the dataset is focused on a niche product line.
+### 2. Most records show positive profit margins, meaning the product is generally profitable across different customers and locations.
+### The Adults (35) age group (both male and female) appears frequently, suggesting they are the primary buyers.
+### 4. A few transactions come from Youth (<25), but their order quantities tend to be lower, possibly indicating lower purchasing power or interest.
+### 5. The Unit Price is steady at $120, while the Unit Cost is $45, giving a constant markup that simplifies profitability analysis.
+### 6.Customers are located mainly in Australia (New South Wales & Victoria) and Canada (British Columbia), suggesting focused regional markets.
+### 7. Orders range from 1 unit to 23 units, showing a mix of small personal and bulk purchases.
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
 
 
 
